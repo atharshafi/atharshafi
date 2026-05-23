@@ -1,70 +1,109 @@
-<h1 align="center">Hi 👋, I'm Athar Shafi</h1>
-<h3 align="center">A passionate Full Stack Developer and Machine Learning Enthusiast</h3>
+# Hi 👋, I'm Athar Shafi
+
+### Full Stack Developer | React Native • Angular • ASP.NET Core | AWS & Cloud | Dubai 🇦🇪
 
 ---
 
-<h3 align="left">👨‍💻 About Me:</h3>
-<p align="left">
-  I'm a recent Master's graduate in Computer Applications with hands-on experience in building scalable applications and user-friendly interfaces. I specialize in technologies like <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Python</strong>, and <strong>MySQL</strong>, and have worked on impactful projects in web and mobile development, as well as machine learning.
-</p>
-<p align="left">
-  🔭 I’m currently working on personal projects to refine my skills in full-stack development.<br>
-  📚 I’m expanding my knowledge in <strong>containerization tools like Docker</strong> and <strong>cloud platforms like AWS</strong>.<br>
-  ⚡ In my free time, I enjoy solving coding challenges, exploring new technologies, and learning through experimentation.
-</p>
+## 🎯 About Me
+
+I'm a **Software Developer** at **Bin Salem Design** (Dubai) with **4+ years of production experience** building scalable applications across mobile and enterprise web platforms.
+
+**Currently working on:**
+- 🔴 **React Native Mobile App** — Face recognition check-in (AWS Rekognition) + Real-time GPS tracking
+- 🏢 **Enterprise HR Platform** — 20+ modules, Angular + TypeScript + ASP.NET Core
+- 💡 **Full-Stack Projects** — Real-time systems, backend optimization, cloud deployment
+
+**Always learning:**
+- 📚 Advanced system design & architecture patterns
+- 🤖 AI/ML (considering Master's in Europe for Sept 2027)
+- ☁️ AWS services & cloud infrastructure
+- 🔐 Secure, scalable backend design
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/atharshafi/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:atharshafi24@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 💼 Experience Highlights
+
+### Bin Salem Design, Dubai — Software Developer
+- Built **React Native iOS/Android app** with AWS Rekognition face-recognition and real-time GPS tracking
+- Developed **enterprise HR/business management platform** (20+ modules) using Angular, TypeScript, ASP.NET Core
+- Optimized **SQL Server stored procedures**, built complex dashboards, integrated notifications system
+- **Tech Stack:** React Native, Angular, TypeScript, ASP.NET Core, SQL Server, AWS
+
+### Featured Projects
+- **[TeamPolls](https://github.com/atharshafi/TeamPolls)** — Real-time polling app (React 19 + Vite + Node.js 22 + Fastify 5 + PostgreSQL + Redis + WebSocket + Docker + GitHub Actions)
+- **[Portfolio Website](https://atharshafi.github.io/MyPortfolio/)** — Personal portfolio (Vite + React + Tailwind CSS + Framer Motion)
+
+### Education
+- **Master of Computer Application** — Amity University (CGPA: 7.50)
+- **2 Published Research Papers** on ML applications
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left">
-  <!-- Add commonly used languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-</p>
+## 🛠 Tech Stack
+
+### Frontend
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Core
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases & Cache
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
+## 📊 GitHub Stats
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharshafi&show_icons=true&theme=dark&count_private=true)](https://github.com/atharshafi)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharshafi&layout=compact&theme=dark)](https://github.com/atharshafi)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharshafi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharshafi24@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://atharshafi.github.io/MyPortfolio/)
+
+---
+
+## 💡 Open To
+
+- 🚀 Freelance full-stack projects (React Native + Node.js + Angular)
+- 🤝 Collaboration on open-source projects
+- 💬 Discussions on system design, scaling, and architecture
+- 🎓 Master's programs in AI/ML or Computer Science (Europe, Sept 2027)
+
+---
+
+**Let's build something amazing together! 💪**
