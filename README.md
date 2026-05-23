@@ -104,7 +104,6 @@ I'm a **Software Developer** at **Bin Salem Design** (Dubai) with **4+ years of 
 - 🚀 Freelance full-stack projects (React Native + Node.js + Angular)
 - 🤝 Collaboration on open-source projects
 - 💬 Discussions on system design, scaling, and architecture
-- 🎓 Master's programs in AI/ML or Computer Science (Europe, Sept 2027)
 
 ---
 
