@@ -81,11 +81,13 @@ I'm a **Software Developer** at **Bin Salem Design** (Dubai) with **4+ years of 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharshafi&show_icons=true&theme=dark&count_private=true)](https://github.com/atharshafi)
+![Athar's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharshafi&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharshafi&layout=compact&theme=dark)](https://github.com/atharshafi)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharshafi&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharshafi&theme=tokyonight)
 
 ---
 
