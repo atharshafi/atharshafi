@@ -34,7 +34,7 @@ I'm a **Software Developer** at **Bin Salem Design** (Dubai) with **4+ years of 
 - **[Portfolio Website](https://atharshafi.github.io/MyPortfolio/)** — Personal portfolio (Vite + React + Tailwind CSS + Framer Motion)
 
 ### Education
-- **Master of Computer Application** — Amity University (CGPA: 7.50)
+- **Master of Computer Application** — Amity University
 - **2 Published Research Papers** on ML applications
 
 ---
