@@ -15,7 +15,7 @@ I'm a **Software Developer** at **Bin Salem Design** (Dubai) with **4+ years of 
 
 **Always learning:**
 - 📚 Advanced system design & architecture patterns
-- 🤖 AI/ML (considering Master's in Europe for Sept 2027)
+- 🤖 AI/ML 
 - ☁️ AWS services & cloud infrastructure
 - 🔐 Secure, scalable backend design
 
